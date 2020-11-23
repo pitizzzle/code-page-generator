@@ -1,0 +1,1 @@
+export const stylesheet_filename = 'syntax-highlighting-light.css';
