@@ -1,5 +1,8 @@
 {
     "devDependencies": {
         "prismjs": "^1.22.0"
+    },
+    "scripts": {
+        "build": "node main.mjs"
     }
 }

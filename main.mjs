@@ -27,7 +27,6 @@ return `<!DOCTYPE html>
 `;
 }
 
-
 console.log('generating pages ..')
 const distDirName = 'dist'
 const distDirPath = `${__dirname}/${distDirName}`;
