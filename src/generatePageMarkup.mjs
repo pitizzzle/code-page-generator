@@ -1,6 +1,7 @@
 import Prism from 'prismjs';
+import { loadFile } from './util.mjs';
 import { escapeHTML } from './util.mjs';
-const stylesheet = readFileSync(`${__dirname}/content/syntax-highlighting.css`, { encoding: 'utf-8' });
+const stylesheet = loadFile('config/syntax-highlighting.css');
 
 export default function generatePageMarkup(code, language) {
 return `<!DOCTYPE html>
