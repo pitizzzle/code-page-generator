@@ -1,6 +1,8 @@
 # code-page-generator
 + turn your javascript files into single-file html pages with syntax highlighting
 
+![](docs/header.jpg)
+
 # Usage
 
 ```bash
