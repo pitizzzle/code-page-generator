@@ -3,6 +3,6 @@
         "prismjs": "^1.22.0"
     },
     "scripts": {
-        "build": "node main.mjs"
+        "build": "node src/main.mjs"
     }
 }
