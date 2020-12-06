@@ -1,1 +1,1 @@
-export const stylesheet_filename = 'syntax-highlighting-light.css';
+export const stylesheet_filename = 'syntax-highlighting-dark.css';

@@ -1,6 +1,7 @@
 {
     "devDependencies": {
-        "prismjs": "^1.22.0"
+        "prismjs": "^1.22.0",
+        "escape-html": "^1.0.3"
     },
     "scripts": {
         "build": "node src/main.mjs"
