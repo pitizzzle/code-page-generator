@@ -1,5 +1,5 @@
 # code-page-generator
-+ turn your javascript files into single-file html pages with syntax highlighting
+idea: turn your code files into single-file syntax-highlighted html pages (eg. for sharing them via messenger)
 
 ![](docs/header.jpg)
 
