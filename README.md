@@ -15,15 +15,16 @@ git clone https://github.com/pitizzzle/code-page-generator.git
 # go into directory
 cd code-page-generator/
 
-# install dependencies (`prismjs`)
+# install dependencies
 npm install
 
-# config:
-#  - paste your code files into the `content/` directory (or use example)
-#  - choose the css stylesheet file in `config/config.mjs` (or use default)
+# paste your code files into the `content/` directory
+
+# optional config:
+#  - in `config/config.mjs`, choose the css stylesheet you want to use (or keep default)
 
 # run the build
 npm run build
 
-# get your code pages from `dist/` folder
+# get your code pages from the `dist/` folder
 ```
